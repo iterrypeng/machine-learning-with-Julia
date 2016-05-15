@@ -1,9 +1,10 @@
+<a name="logo"/>
+<div align="center">
+<img src="http://julialang.org/images/logo_hires.png" alt="Julia Logo" width="210" height="142"></img>
+</div>
 # Multiple Language Versions
 * [中文](zh/)
 
-## Community
-
-## Acknowledgments
 
 ## License
 Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
